@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Aggrey Omondi
-- 👀 I’m interested in Automation and advanced control 
-- 🌱 I’m currently learning robust control
-- 💞️ I’m looking to collaborate on a bioechatronic project
+- 👀 I’m currently studying Automation Manufacturing and Control Engineering @Dekut 
+- 🌱 I’m currently researching on AR and deep learning technologies
+- 💞️ I’m looking to collaborate on a mechatronic research project
 - 📫 Email me @aggrey.onyuna17@students.dkut.ac.ke
 
 <!---
